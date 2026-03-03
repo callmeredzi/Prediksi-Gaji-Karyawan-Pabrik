@@ -1,5 +1,7 @@
 # Prediksi Gaji Karyawan Pabrik
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/callmeredzi/Prediksi-Gaji-Karyawan-Pabrik/blob/main/notebooks/Prediksi_Gaji_Pabrik.ipynb)
+
 Proyek ini memprediksi gaji karyawan pabrik menggunakan **Regresi Linier** berdasarkan data performa dan demografi karyawan.
 
 ## Dataset
