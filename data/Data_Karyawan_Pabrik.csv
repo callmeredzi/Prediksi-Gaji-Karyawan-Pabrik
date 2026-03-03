@@ -1,0 +1,421 @@
+id_karyawan,nama_karyawan,departemen,jabatan,skor_kinerja,jam_lembur,persentase_target,umur,lama_bekerja,gaji
+KRY-0001,Karyawan 1,Logistik,Operator,69,37,93,51,25,9912000
+KRY-0002,Karyawan 2,Gudang,Operator,92,12,76,52,10,7172000
+KRY-0003,Karyawan 3,Maintenance,Teknisi,97,46,94,22,2,6758000
+KRY-0004,Karyawan 4,Gudang,Operator,72,24,89,28,3,5767000
+KRY-0005,Karyawan 5,Gudang,Admin,90,8,71,27,5,6434000
+KRY-0006,Karyawan 6,Quality Control,Teknisi,95,3,76,52,30,9773000
+KRY-0007,Karyawan 7,Maintenance,Operator,83,13,75,25,6,6147000
+KRY-0008,Karyawan 8,Maintenance,Operator,74,36,86,23,2,6166000
+KRY-0009,Karyawan 9,Maintenance,Teknisi,88,33,96,32,13,7896000
+KRY-0010,Karyawan 10,Gudang,Operator,67,10,94,21,2,5288000
+KRY-0011,Karyawan 11,Logistik,Operator,64,40,94,24,1,5915000
+KRY-0012,Karyawan 12,Maintenance,Admin,88,2,97,46,27,9345000
+KRY-0013,Karyawan 13,Gudang,Operator,63,27,71,51,13,7242000
+KRY-0014,Karyawan 14,Quality Control,Operator,71,28,72,40,19,8233000
+KRY-0015,Karyawan 15,Logistik,Teknisi,61,8,74,27,5,5440000
+KRY-0016,Karyawan 16,Quality Control,Operator,86,2,74,27,3,5459000
+KRY-0017,Karyawan 17,Logistik,Operator,90,24,70,22,2,6104000
+KRY-0018,Karyawan 18,Gudang,Admin,95,33,77,22,3,6767000
+KRY-0019,Karyawan 19,Produksi,Operator,95,11,81,41,14,7746000
+KRY-0020,Karyawan 20,Logistik,Supervisor,85,41,93,25,2,6770000
+KRY-0021,Karyawan 21,Quality Control,Admin,86,8,73,21,1,5248000
+KRY-0022,Karyawan 22,Gudang,Operator,64,14,82,42,5,5828000
+KRY-0023,Karyawan 23,Logistik,Operator,79,39,92,21,1,6345000
+KRY-0024,Karyawan 24,Produksi,Operator,70,24,84,36,5,6035000
+KRY-0025,Karyawan 25,Produksi,Operator,69,4,80,54,20,7758000
+KRY-0026,Karyawan 26,Maintenance,Operator,99,10,79,53,21,8380000
+KRY-0027,Karyawan 27,Maintenance,Teknisi,97,33,72,42,10,7911000
+KRY-0028,Karyawan 28,Quality Control,Operator,65,23,91,49,5,5997000
+KRY-0029,Karyawan 29,Logistik,Operator,67,14,83,27,4,5821000
+KRY-0030,Karyawan 30,Logistik,Admin,82,37,85,41,6,6991000
+KRY-0031,Karyawan 31,Maintenance,Operator,85,7,79,24,2,5473000
+KRY-0032,Karyawan 32,Logistik,Admin,71,4,98,32,4,5121000
+KRY-0033,Karyawan 33,Logistik,Operator,85,47,79,48,7,7177000
+KRY-0034,Karyawan 34,Produksi,Operator,72,25,81,50,7,6021000
+KRY-0035,Karyawan 35,Maintenance,Teknisi,99,17,99,35,2,5977000
+KRY-0036,Karyawan 36,Gudang,Teknisi,77,5,78,49,3,5896000
+KRY-0037,Karyawan 37,Maintenance,Admin,84,36,70,35,1,5952000
+KRY-0038,Karyawan 38,Gudang,Teknisi,92,47,74,31,8,7224000
+KRY-0039,Karyawan 39,Produksi,Admin,99,12,89,36,4,6433000
+KRY-0040,Karyawan 40,Quality Control,Operator,71,27,77,35,6,6903000
+KRY-0041,Karyawan 41,Logistik,Operator,95,4,80,31,9,6730000
+KRY-0042,Karyawan 42,Produksi,Teknisi,63,12,81,27,6,5878000
+KRY-0043,Karyawan 43,Logistik,Admin,64,16,70,39,14,7098000
+KRY-0044,Karyawan 44,Quality Control,Supervisor,96,49,94,22,1,6481000
+KRY-0045,Karyawan 45,Quality Control,Operator,67,39,91,35,15,7770000
+KRY-0046,Karyawan 46,Produksi,Operator,87,44,89,49,20,9297000
+KRY-0047,Karyawan 47,Quality Control,Teknisi,90,31,97,42,4,6528000
+KRY-0048,Karyawan 48,Gudang,Operator,68,28,94,47,21,8627000
+KRY-0049,Karyawan 49,Quality Control,Admin,88,2,80,24,4,5886000
+KRY-0050,Karyawan 50,Logistik,Admin,73,39,74,39,10,7314000
+KRY-0051,Karyawan 51,Logistik,Operator,99,33,84,20,1,6590000
+KRY-0052,Karyawan 52,Logistik,Teknisi,81,39,74,49,30,10475000
+KRY-0053,Karyawan 53,Logistik,Teknisi,70,26,81,40,7,6738000
+KRY-0054,Karyawan 54,Gudang,Operator,82,12,74,39,3,5767000
+KRY-0055,Karyawan 55,Maintenance,Admin,60,44,86,25,4,6333000
+KRY-0056,Karyawan 56,Produksi,Operator,96,32,86,41,14,8294000
+KRY-0057,Karyawan 57,Logistik,Admin,80,5,93,37,10,6491000
+KRY-0058,Karyawan 58,Quality Control,Operator,85,23,81,27,8,6913000
+KRY-0059,Karyawan 59,Logistik,Admin,95,18,93,51,16,8292000
+KRY-0060,Karyawan 60,Quality Control,Operator,82,15,97,52,31,10023000
+KRY-0061,Karyawan 61,Quality Control,Operator,60,39,84,35,10,7096000
+KRY-0062,Karyawan 62,Logistik,Admin,99,27,84,31,9,7215000
+KRY-0063,Karyawan 63,Gudang,Operator,74,32,75,53,13,7806000
+KRY-0064,Karyawan 64,Quality Control,Operator,80,47,81,33,6,7280000
+KRY-0065,Karyawan 65,Quality Control,Supervisor,68,40,96,52,9,6974000
+KRY-0066,Karyawan 66,Logistik,Supervisor,68,12,98,42,13,7137000
+KRY-0067,Karyawan 67,Quality Control,Operator,69,42,89,21,2,6000000
+KRY-0068,Karyawan 68,Quality Control,Teknisi,85,44,87,40,11,8176000
+KRY-0069,Karyawan 69,Logistik,Operator,94,24,83,21,2,6338000
+KRY-0070,Karyawan 70,Logistik,Operator,84,41,71,46,18,8994000
+KRY-0071,Karyawan 71,Produksi,Operator,85,35,78,28,9,7325000
+KRY-0072,Karyawan 72,Gudang,Teknisi,70,26,74,20,1,5745000
+KRY-0073,Karyawan 73,Gudang,Teknisi,97,37,89,30,5,7315000
+KRY-0074,Karyawan 74,Quality Control,Teknisi,61,6,95,22,2,5118000
+KRY-0075,Karyawan 75,Gudang,Teknisi,66,4,98,42,1,4756000
+KRY-0076,Karyawan 76,Quality Control,Operator,77,42,70,45,7,7203000
+KRY-0077,Karyawan 77,Produksi,Operator,86,44,92,23,2,6866000
+KRY-0078,Karyawan 78,Logistik,Operator,93,30,72,37,15,8750000
+KRY-0079,Karyawan 79,Logistik,Operator,86,22,75,25,2,5939000
+KRY-0080,Karyawan 80,Logistik,Operator,76,41,74,54,32,11022000
+KRY-0081,Karyawan 81,Gudang,Admin,83,9,90,41,11,7107000
+KRY-0082,Karyawan 82,Produksi,Operator,84,31,96,34,4,6348000
+KRY-0083,Karyawan 83,Gudang,Operator,66,42,74,41,15,8486000
+KRY-0084,Karyawan 84,Gudang,Operator,65,29,70,31,7,6307000
+KRY-0085,Karyawan 85,Produksi,Teknisi,83,38,86,37,10,7762000
+KRY-0086,Karyawan 86,Produksi,Teknisi,92,30,88,54,26,10001000
+KRY-0087,Karyawan 87,Produksi,Operator,88,17,83,49,12,7381000
+KRY-0088,Karyawan 88,Produksi,Operator,81,35,81,43,24,10079000
+KRY-0089,Karyawan 89,Logistik,Teknisi,85,1,79,49,14,7070000
+KRY-0090,Karyawan 90,Maintenance,Operator,87,13,89,33,9,6717000
+KRY-0091,Karyawan 91,Maintenance,Admin,80,12,90,25,5,6276000
+KRY-0092,Karyawan 92,Produksi,Teknisi,66,28,87,22,2,5912000
+KRY-0093,Karyawan 93,Maintenance,Operator,76,11,93,35,5,6156000
+KRY-0094,Karyawan 94,Maintenance,Operator,79,38,96,26,2,6343000
+KRY-0095,Karyawan 95,Produksi,Supervisor,79,1,80,33,5,5723000
+KRY-0096,Karyawan 96,Maintenance,Operator,81,31,99,28,3,6680000
+KRY-0097,Karyawan 97,Gudang,Operator,87,12,71,34,7,6283000
+KRY-0098,Karyawan 98,Quality Control,Admin,99,45,94,40,5,7359000
+KRY-0099,Karyawan 99,Quality Control,Admin,66,26,87,54,24,9160000
+KRY-0100,Karyawan 100,Produksi,Supervisor,60,48,98,21,1,6051000
+KRY-0101,Karyawan 101,Logistik,Teknisi,91,40,94,46,19,9056000
+KRY-0102,Karyawan 102,Produksi,Operator,72,16,76,21,1,5494000
+KRY-0103,Karyawan 103,Logistik,Operator,89,39,93,54,25,10267000
+KRY-0104,Karyawan 104,Quality Control,Teknisi,82,30,84,37,12,7612000
+KRY-0105,Karyawan 105,Produksi,Operator,78,33,80,33,9,7166000
+KRY-0106,Karyawan 106,Gudang,Operator,91,23,87,39,9,7030000
+KRY-0107,Karyawan 107,Maintenance,Admin,89,44,92,37,1,6491000
+KRY-0108,Karyawan 108,Logistik,Operator,88,34,81,29,2,6597000
+KRY-0109,Karyawan 109,Maintenance,Operator,88,47,75,44,21,9636000
+KRY-0110,Karyawan 110,Maintenance,Operator,89,5,89,21,2,5369000
+KRY-0111,Karyawan 111,Produksi,Operator,75,18,92,44,10,6892000
+KRY-0112,Karyawan 112,Maintenance,Operator,99,29,99,52,7,7410000
+KRY-0113,Karyawan 113,Gudang,Operator,78,6,82,50,22,8228000
+KRY-0114,Karyawan 114,Maintenance,Operator,77,9,89,33,7,5894000
+KRY-0115,Karyawan 115,Produksi,Teknisi,60,40,85,20,1,6288000
+KRY-0116,Karyawan 116,Gudang,Teknisi,73,31,87,35,1,5564000
+KRY-0117,Karyawan 117,Quality Control,Operator,61,33,79,22,1,5588000
+KRY-0118,Karyawan 118,Maintenance,Supervisor,87,27,97,54,24,9496000
+KRY-0119,Karyawan 119,Produksi,Operator,89,14,92,25,5,6196000
+KRY-0120,Karyawan 120,Quality Control,Operator,97,29,77,44,2,6395000
+KRY-0121,Karyawan 121,Quality Control,Admin,63,36,87,32,12,7555000
+KRY-0122,Karyawan 122,Logistik,Operator,60,28,90,53,22,8162000
+KRY-0123,Karyawan 123,Gudang,Supervisor,67,21,70,27,1,5167000
+KRY-0124,Karyawan 124,Maintenance,Operator,88,3,92,40,17,7709000
+KRY-0125,Karyawan 125,Produksi,Supervisor,98,19,77,53,34,10849000
+KRY-0126,Karyawan 126,Logistik,Operator,62,31,98,23,2,5796000
+KRY-0127,Karyawan 127,Gudang,Admin,91,35,75,44,14,8316000
+KRY-0128,Karyawan 128,Logistik,Operator,69,49,74,34,6,6627000
+KRY-0129,Karyawan 129,Gudang,Supervisor,69,3,84,23,2,5325000
+KRY-0130,Karyawan 130,Gudang,Operator,78,26,91,31,1,5690000
+KRY-0131,Karyawan 131,Maintenance,Operator,93,16,84,51,10,6967000
+KRY-0132,Karyawan 132,Gudang,Supervisor,92,11,71,51,21,8662000
+KRY-0133,Karyawan 133,Logistik,Operator,82,21,70,47,5,6341000
+KRY-0134,Karyawan 134,Gudang,Teknisi,87,16,92,32,2,6059000
+KRY-0135,Karyawan 135,Maintenance,Teknisi,91,9,92,50,22,8744000
+KRY-0136,Karyawan 136,Maintenance,Operator,66,0,95,33,9,6202000
+KRY-0137,Karyawan 137,Logistik,Teknisi,88,21,80,39,2,5802000
+KRY-0138,Karyawan 138,Quality Control,Operator,67,25,79,37,10,6918000
+KRY-0139,Karyawan 139,Quality Control,Admin,60,17,99,48,2,5087000
+KRY-0140,Karyawan 140,Gudang,Operator,62,49,87,25,3,6480000
+KRY-0141,Karyawan 141,Produksi,Operator,83,13,87,51,29,9677000
+KRY-0142,Karyawan 142,Gudang,Supervisor,82,46,86,48,7,7339000
+KRY-0143,Karyawan 143,Logistik,Admin,67,28,95,21,2,5750000
+KRY-0144,Karyawan 144,Logistik,Operator,96,11,77,42,12,7497000
+KRY-0145,Karyawan 145,Logistik,Teknisi,62,35,84,38,15,7519000
+KRY-0146,Karyawan 146,Logistik,Operator,92,34,77,50,8,7180000
+KRY-0147,Karyawan 147,Logistik,Operator,87,11,86,24,4,5962000
+KRY-0148,Karyawan 148,Maintenance,Operator,67,6,81,38,10,6084000
+KRY-0149,Karyawan 149,Quality Control,Operator,93,28,96,53,32,10809000
+KRY-0150,Karyawan 150,Logistik,Operator,94,10,77,29,7,6520000
+KRY-0151,Karyawan 151,Produksi,Operator,91,32,94,44,21,8949000
+KRY-0152,Karyawan 152,Produksi,Supervisor,83,5,83,21,2,5119000
+KRY-0153,Karyawan 153,Produksi,Supervisor,73,46,73,30,10,7115000
+KRY-0154,Karyawan 154,Produksi,Teknisi,91,14,70,50,31,9946000
+KRY-0155,Karyawan 155,Maintenance,Operator,75,31,70,34,4,6333000
+KRY-0156,Karyawan 156,Produksi,Operator,63,10,88,28,4,5491000
+KRY-0157,Karyawan 157,Logistik,Admin,96,22,85,42,22,9220000
+KRY-0158,Karyawan 158,Gudang,Teknisi,80,25,83,38,15,7744000
+KRY-0159,Karyawan 159,Produksi,Operator,73,33,90,28,8,6946000
+KRY-0160,Karyawan 160,Maintenance,Admin,90,45,85,54,21,9679000
+KRY-0161,Karyawan 161,Maintenance,Admin,77,33,74,40,15,7826000
+KRY-0162,Karyawan 162,Produksi,Admin,66,28,78,28,6,6385000
+KRY-0163,Karyawan 163,Gudang,Teknisi,69,3,95,47,20,7901000
+KRY-0164,Karyawan 164,Produksi,Teknisi,66,16,99,26,4,5602000
+KRY-0165,Karyawan 165,Maintenance,Operator,92,34,97,35,14,8472000
+KRY-0166,Karyawan 166,Quality Control,Admin,82,12,71,35,11,6857000
+KRY-0167,Karyawan 167,Logistik,Admin,80,40,87,52,28,10128000
+KRY-0168,Karyawan 168,Maintenance,Operator,78,38,75,23,2,6411000
+KRY-0169,Karyawan 169,Produksi,Operator,78,14,78,23,1,5837000
+KRY-0170,Karyawan 170,Logistik,Operator,95,28,70,36,2,6357000
+KRY-0171,Karyawan 171,Produksi,Admin,88,28,78,48,25,9777000
+KRY-0172,Karyawan 172,Produksi,Supervisor,77,10,94,54,3,5488000
+KRY-0173,Karyawan 173,Quality Control,Operator,61,31,85,26,4,5802000
+KRY-0174,Karyawan 174,Logistik,Operator,60,1,82,46,1,4713000
+KRY-0175,Karyawan 175,Logistik,Operator,64,46,78,47,10,7525000
+KRY-0176,Karyawan 176,Quality Control,Supervisor,79,13,90,41,20,8198000
+KRY-0177,Karyawan 177,Maintenance,Admin,70,19,82,33,3,5846000
+KRY-0178,Karyawan 178,Produksi,Admin,61,21,78,26,6,5919000
+KRY-0179,Karyawan 179,Gudang,Operator,62,10,80,41,7,5710000
+KRY-0180,Karyawan 180,Produksi,Operator,82,26,73,24,4,6532000
+KRY-0181,Karyawan 181,Produksi,Operator,71,2,71,21,1,5143000
+KRY-0182,Karyawan 182,Maintenance,Operator,79,16,98,46,25,8983000
+KRY-0183,Karyawan 183,Produksi,Admin,64,43,75,40,18,8914000
+KRY-0184,Karyawan 184,Quality Control,Admin,96,27,83,34,11,7623000
+KRY-0185,Karyawan 185,Quality Control,Supervisor,97,28,73,40,19,8947000
+KRY-0186,Karyawan 186,Logistik,Supervisor,89,20,75,29,5,6413000
+KRY-0187,Karyawan 187,Gudang,Operator,68,46,88,42,19,8995000
+KRY-0188,Karyawan 188,Produksi,Teknisi,93,15,75,24,3,6114000
+KRY-0189,Karyawan 189,Produksi,Admin,94,36,71,20,1,6462000
+KRY-0190,Karyawan 190,Maintenance,Admin,81,19,87,32,8,6486000
+KRY-0191,Karyawan 191,Quality Control,Operator,83,5,82,40,12,6572000
+KRY-0192,Karyawan 192,Gudang,Operator,76,18,78,45,10,7088000
+KRY-0193,Karyawan 193,Logistik,Operator,69,4,92,40,8,5891000
+KRY-0194,Karyawan 194,Quality Control,Supervisor,89,2,88,37,9,6480000
+KRY-0195,Karyawan 195,Logistik,Teknisi,82,0,82,51,4,5605000
+KRY-0196,Karyawan 196,Maintenance,Operator,91,37,80,36,5,7306000
+KRY-0197,Karyawan 197,Maintenance,Teknisi,76,14,70,54,21,8422000
+KRY-0198,Karyawan 198,Produksi,Teknisi,76,33,93,30,8,6931000
+KRY-0199,Karyawan 199,Gudang,Operator,73,34,99,40,9,7025000
+KRY-0200,Karyawan 200,Logistik,Operator,68,48,91,45,15,8343000
+KRY-0201,Karyawan 201,Quality Control,Teknisi,99,24,76,23,3,6268000
+KRY-0202,Karyawan 202,Maintenance,Operator,61,23,94,53,18,7916000
+KRY-0203,Karyawan 203,Produksi,Teknisi,84,11,90,37,10,6800000
+KRY-0204,Karyawan 204,Produksi,Operator,98,17,84,54,20,9098000
+KRY-0205,Karyawan 205,Logistik,Admin,68,14,70,48,6,5963000
+KRY-0206,Karyawan 206,Maintenance,Operator,81,43,81,48,12,7625000
+KRY-0207,Karyawan 207,Gudang,Operator,63,15,95,40,2,5845000
+KRY-0208,Karyawan 208,Maintenance,Admin,85,26,76,32,7,7021000
+KRY-0209,Karyawan 209,Logistik,Operator,88,7,84,36,16,8086000
+KRY-0210,Karyawan 210,Logistik,Operator,93,45,90,28,3,6729000
+KRY-0211,Karyawan 211,Maintenance,Operator,82,24,88,20,1,5766000
+KRY-0212,Karyawan 212,Logistik,Teknisi,96,16,97,21,1,5985000
+KRY-0213,Karyawan 213,Maintenance,Teknisi,70,28,98,48,3,6097000
+KRY-0214,Karyawan 214,Quality Control,Teknisi,65,7,94,52,27,8921000
+KRY-0215,Karyawan 215,Maintenance,Operator,77,14,70,29,2,5120000
+KRY-0216,Karyawan 216,Maintenance,Operator,80,26,86,40,11,6988000
+KRY-0217,Karyawan 217,Logistik,Operator,95,45,86,47,8,8054000
+KRY-0218,Karyawan 218,Logistik,Operator,97,49,72,30,6,7949000
+KRY-0219,Karyawan 219,Produksi,Operator,93,6,81,53,33,10269000
+KRY-0220,Karyawan 220,Produksi,Operator,76,2,75,27,4,5758000
+KRY-0221,Karyawan 221,Quality Control,Operator,96,28,95,41,1,6005000
+KRY-0222,Karyawan 222,Produksi,Admin,84,43,80,27,7,7161000
+KRY-0223,Karyawan 223,Maintenance,Operator,97,23,72,34,8,6910000
+KRY-0224,Karyawan 224,Logistik,Operator,71,2,77,36,5,5360000
+KRY-0225,Karyawan 225,Produksi,Teknisi,82,19,83,42,16,8055000
+KRY-0226,Karyawan 226,Produksi,Operator,81,45,83,43,11,7748000
+KRY-0227,Karyawan 227,Quality Control,Teknisi,80,14,79,38,5,6518000
+KRY-0228,Karyawan 228,Quality Control,Admin,86,24,71,24,4,6432000
+KRY-0229,Karyawan 229,Maintenance,Admin,90,29,83,51,30,10687000
+KRY-0230,Karyawan 230,Logistik,Operator,65,13,78,20,1,5238000
+KRY-0231,Karyawan 231,Quality Control,Admin,86,6,72,42,6,6343000
+KRY-0232,Karyawan 232,Produksi,Operator,99,16,90,27,6,6486000
+KRY-0233,Karyawan 233,Logistik,Operator,93,43,95,32,6,7639000
+KRY-0234,Karyawan 234,Logistik,Operator,71,19,77,27,3,5768000
+KRY-0235,Karyawan 235,Produksi,Supervisor,66,35,85,42,9,7262000
+KRY-0236,Karyawan 236,Quality Control,Operator,69,8,71,20,1,4782000
+KRY-0237,Karyawan 237,Produksi,Operator,76,37,75,43,12,7766000
+KRY-0238,Karyawan 238,Logistik,Teknisi,85,47,97,54,11,8089000
+KRY-0239,Karyawan 239,Gudang,Operator,80,21,90,43,14,7506000
+KRY-0240,Karyawan 240,Gudang,Operator,87,1,98,36,16,7533000
+KRY-0241,Karyawan 241,Maintenance,Operator,61,23,95,24,1,5668000
+KRY-0242,Karyawan 242,Produksi,Operator,60,7,94,39,13,6521000
+KRY-0243,Karyawan 243,Produksi,Operator,95,10,81,40,21,8842000
+KRY-0244,Karyawan 244,Maintenance,Operator,85,12,74,50,21,8285000
+KRY-0245,Karyawan 245,Maintenance,Teknisi,88,16,71,30,2,6262000
+KRY-0246,Karyawan 246,Maintenance,Operator,80,7,85,34,4,5867000
+KRY-0247,Karyawan 247,Logistik,Operator,70,20,74,38,6,6545000
+KRY-0248,Karyawan 248,Produksi,Admin,99,17,84,26,2,6224000
+KRY-0249,Karyawan 249,Logistik,Operator,70,29,81,47,27,9698000
+KRY-0250,Karyawan 250,Maintenance,Teknisi,95,17,73,24,3,6319000
+KRY-0251,Karyawan 251,Produksi,Operator,98,45,84,24,5,7333000
+KRY-0252,Karyawan 252,Logistik,Operator,99,46,80,49,25,10086000
+KRY-0253,Karyawan 253,Logistik,Operator,94,30,85,51,3,6619000
+KRY-0254,Karyawan 254,Maintenance,Operator,93,37,92,27,1,6269000
+KRY-0255,Karyawan 255,Produksi,Operator,83,31,75,29,4,6270000
+KRY-0256,Karyawan 256,Maintenance,Operator,81,10,83,51,25,9097000
+KRY-0257,Karyawan 257,Produksi,Operator,64,44,87,47,20,8844000
+KRY-0258,Karyawan 258,Gudang,Operator,92,24,81,36,2,6366000
+KRY-0259,Karyawan 259,Quality Control,Operator,95,32,96,50,26,9902000
+KRY-0260,Karyawan 260,Quality Control,Operator,79,37,80,27,6,6796000
+KRY-0261,Karyawan 261,Quality Control,Operator,78,40,82,44,5,7040000
+KRY-0262,Karyawan 262,Maintenance,Operator,94,7,90,28,3,5896000
+KRY-0263,Karyawan 263,Gudang,Teknisi,76,10,92,21,1,4975000
+KRY-0264,Karyawan 264,Produksi,Operator,93,21,80,34,12,7642000
+KRY-0265,Karyawan 265,Logistik,Teknisi,68,23,92,22,1,5796000
+KRY-0266,Karyawan 266,Produksi,Teknisi,85,40,85,23,1,6254000
+KRY-0267,Karyawan 267,Logistik,Operator,61,16,84,33,4,5720000
+KRY-0268,Karyawan 268,Produksi,Admin,68,11,90,44,6,5720000
+KRY-0269,Karyawan 269,Gudang,Admin,68,45,97,29,2,6283000
+KRY-0270,Karyawan 270,Logistik,Operator,99,31,84,40,6,7328000
+KRY-0271,Karyawan 271,Maintenance,Operator,76,14,94,31,3,5734000
+KRY-0272,Karyawan 272,Produksi,Admin,60,15,73,46,12,7008000
+KRY-0273,Karyawan 273,Produksi,Teknisi,84,21,80,21,1,5845000
+KRY-0274,Karyawan 274,Logistik,Operator,99,27,88,32,11,8184000
+KRY-0275,Karyawan 275,Maintenance,Operator,84,19,84,51,2,5537000
+KRY-0276,Karyawan 276,Maintenance,Operator,98,32,73,50,15,8427000
+KRY-0277,Karyawan 277,Gudang,Operator,94,9,90,35,12,7033000
+KRY-0278,Karyawan 278,Maintenance,Teknisi,62,39,82,51,12,7307000
+KRY-0279,Karyawan 279,Maintenance,Operator,96,31,91,51,9,7299000
+KRY-0280,Karyawan 280,Maintenance,Operator,89,49,88,53,21,9734000
+KRY-0281,Karyawan 281,Quality Control,Teknisi,97,32,71,30,8,7445000
+KRY-0282,Karyawan 282,Gudang,Operator,93,1,83,29,2,5575000
+KRY-0283,Karyawan 283,Produksi,Operator,71,32,98,34,6,6355000
+KRY-0284,Karyawan 284,Logistik,Teknisi,78,32,73,36,3,6205000
+KRY-0285,Karyawan 285,Produksi,Admin,96,40,85,37,12,8027000
+KRY-0286,Karyawan 286,Gudang,Operator,76,12,90,28,5,6117000
+KRY-0287,Karyawan 287,Logistik,Operator,69,29,89,44,24,8976000
+KRY-0288,Karyawan 288,Gudang,Operator,71,32,83,33,10,7137000
+KRY-0289,Karyawan 289,Maintenance,Operator,75,12,96,44,1,5422000
+KRY-0290,Karyawan 290,Logistik,Operator,83,25,98,41,21,8737000
+KRY-0291,Karyawan 291,Maintenance,Operator,78,21,84,49,3,6079000
+KRY-0292,Karyawan 292,Produksi,Operator,67,38,97,39,20,9099000
+KRY-0293,Karyawan 293,Produksi,Operator,90,1,72,40,2,5468000
+KRY-0294,Karyawan 294,Logistik,Operator,80,37,77,51,9,7540000
+KRY-0295,Karyawan 295,Logistik,Operator,76,38,85,40,19,8395000
+KRY-0296,Karyawan 296,Gudang,Operator,82,25,79,54,18,8304000
+KRY-0297,Karyawan 297,Gudang,Operator,96,45,73,51,26,10507000
+KRY-0298,Karyawan 298,Maintenance,Operator,75,49,99,49,11,7709000
+KRY-0299,Karyawan 299,Logistik,Admin,65,14,87,31,9,6412000
+KRY-0300,Karyawan 300,Produksi,Operator,67,33,71,37,16,8242000
+KRY-0301,Karyawan 301,Gudang,Teknisi,84,41,86,40,17,8384000
+KRY-0302,Karyawan 302,Gudang,Teknisi,77,43,82,32,5,6642000
+KRY-0303,Karyawan 303,Produksi,Operator,84,48,73,40,12,8257000
+KRY-0304,Karyawan 304,Gudang,Operator,71,39,95,27,3,6432000
+KRY-0305,Karyawan 305,Maintenance,Operator,74,10,94,26,6,6128000
+KRY-0306,Karyawan 306,Logistik,Operator,85,2,99,42,15,7332000
+KRY-0307,Karyawan 307,Produksi,Teknisi,85,5,80,51,27,9292000
+KRY-0308,Karyawan 308,Logistik,Operator,91,8,76,30,3,5991000
+KRY-0309,Karyawan 309,Gudang,Operator,69,5,81,41,1,4897000
+KRY-0310,Karyawan 310,Gudang,Operator,75,8,79,41,20,7918000
+KRY-0311,Karyawan 311,Produksi,Operator,66,38,76,44,16,8126000
+KRY-0312,Karyawan 312,Maintenance,Teknisi,76,30,82,41,2,6060000
+KRY-0313,Karyawan 313,Quality Control,Operator,82,31,76,47,2,6038000
+KRY-0314,Karyawan 314,Produksi,Operator,85,40,93,48,3,6571000
+KRY-0315,Karyawan 315,Quality Control,Supervisor,80,49,86,32,8,7650000
+KRY-0316,Karyawan 316,Quality Control,Teknisi,81,11,79,37,15,7532000
+KRY-0317,Karyawan 317,Maintenance,Operator,66,7,98,21,1,4943000
+KRY-0318,Karyawan 318,Quality Control,Operator,73,7,79,48,6,5522000
+KRY-0319,Karyawan 319,Quality Control,Operator,74,49,93,40,9,7599000
+KRY-0320,Karyawan 320,Maintenance,Operator,66,27,73,34,4,5836000
+KRY-0321,Karyawan 321,Quality Control,Operator,68,19,89,46,1,5577000
+KRY-0322,Karyawan 322,Quality Control,Operator,67,46,73,50,8,7158000
+KRY-0323,Karyawan 323,Quality Control,Operator,82,6,91,34,7,5971000
+KRY-0324,Karyawan 324,Produksi,Operator,88,10,76,42,23,8798000
+KRY-0325,Karyawan 325,Produksi,Admin,77,19,91,43,3,6114000
+KRY-0326,Karyawan 326,Produksi,Operator,90,15,70,32,4,6276000
+KRY-0327,Karyawan 327,Maintenance,Operator,89,3,81,41,15,7464000
+KRY-0328,Karyawan 328,Gudang,Operator,98,5,93,52,15,7395000
+KRY-0329,Karyawan 329,Quality Control,Supervisor,94,21,82,22,3,6584000
+KRY-0330,Karyawan 330,Quality Control,Operator,77,25,79,38,3,5916000
+KRY-0331,Karyawan 331,Maintenance,Operator,98,2,84,42,21,8657000
+KRY-0332,Karyawan 332,Quality Control,Supervisor,76,40,96,48,21,9105000
+KRY-0333,Karyawan 333,Produksi,Admin,73,41,82,49,14,8258000
+KRY-0334,Karyawan 334,Gudang,Admin,90,13,92,44,20,8751000
+KRY-0335,Karyawan 335,Logistik,Operator,83,10,91,27,6,6290000
+KRY-0336,Karyawan 336,Quality Control,Operator,94,17,91,35,4,6441000
+KRY-0337,Karyawan 337,Produksi,Teknisi,93,11,90,27,4,6070000
+KRY-0338,Karyawan 338,Logistik,Admin,62,22,91,20,1,5263000
+KRY-0339,Karyawan 339,Gudang,Operator,96,11,97,24,1,5728000
+KRY-0340,Karyawan 340,Logistik,Operator,99,12,78,22,3,6022000
+KRY-0341,Karyawan 341,Produksi,Operator,85,24,95,20,1,6363000
+KRY-0342,Karyawan 342,Logistik,Teknisi,82,44,78,23,1,6212000
+KRY-0343,Karyawan 343,Maintenance,Operator,98,18,84,54,35,11250000
+KRY-0344,Karyawan 344,Logistik,Operator,74,45,79,51,28,10433000
+KRY-0345,Karyawan 345,Quality Control,Operator,63,35,93,53,13,7606000
+KRY-0346,Karyawan 346,Quality Control,Operator,88,44,95,44,15,8926000
+KRY-0347,Karyawan 347,Maintenance,Operator,81,7,94,29,2,5490000
+KRY-0348,Karyawan 348,Produksi,Operator,84,28,98,40,19,8543000
+KRY-0349,Karyawan 349,Quality Control,Teknisi,72,31,79,46,1,5878000
+KRY-0350,Karyawan 350,Gudang,Operator,77,43,77,46,6,6993000
+KRY-0351,Karyawan 351,Quality Control,Operator,92,17,93,21,1,5901000
+KRY-0352,Karyawan 352,Quality Control,Operator,75,5,85,32,11,6763000
+KRY-0353,Karyawan 353,Produksi,Operator,61,17,86,28,7,5908000
+KRY-0354,Karyawan 354,Logistik,Operator,94,18,95,41,2,6259000
+KRY-0355,Karyawan 355,Quality Control,Operator,93,21,96,45,24,9339000
+KRY-0356,Karyawan 356,Maintenance,Operator,89,36,74,31,6,7149000
+KRY-0357,Karyawan 357,Logistik,Operator,72,31,73,36,14,7893000
+KRY-0358,Karyawan 358,Gudang,Operator,72,40,87,33,4,6613000
+KRY-0359,Karyawan 359,Produksi,Supervisor,77,2,93,33,5,5628000
+KRY-0360,Karyawan 360,Gudang,Operator,91,27,88,53,8,7032000
+KRY-0361,Karyawan 361,Logistik,Admin,91,9,73,39,3,5786000
+KRY-0362,Karyawan 362,Logistik,Operator,94,34,97,30,3,6963000
+KRY-0363,Karyawan 363,Logistik,Teknisi,98,28,76,35,14,8027000
+KRY-0364,Karyawan 364,Gudang,Teknisi,88,14,79,50,31,9986000
+KRY-0365,Karyawan 365,Logistik,Operator,88,32,94,25,6,6767000
+KRY-0366,Karyawan 366,Gudang,Operator,75,6,87,38,17,7557000
+KRY-0367,Karyawan 367,Logistik,Operator,69,11,88,23,1,4855000
+KRY-0368,Karyawan 368,Maintenance,Operator,89,48,73,23,4,6849000
+KRY-0369,Karyawan 369,Logistik,Admin,84,29,79,39,14,7898000
+KRY-0370,Karyawan 370,Gudang,Admin,98,20,70,29,10,7102000
+KRY-0371,Karyawan 371,Quality Control,Supervisor,79,30,92,43,6,6439000
+KRY-0372,Karyawan 372,Logistik,Operator,64,23,87,54,23,8464000
+KRY-0373,Karyawan 373,Quality Control,Teknisi,60,19,74,45,22,8201000
+KRY-0374,Karyawan 374,Maintenance,Admin,89,36,84,40,16,8706000
+KRY-0375,Karyawan 375,Produksi,Operator,62,3,86,40,19,7671000
+KRY-0376,Karyawan 376,Maintenance,Operator,73,27,72,29,3,6404000
+KRY-0377,Karyawan 377,Logistik,Teknisi,89,43,81,23,3,7196000
+KRY-0378,Karyawan 378,Quality Control,Operator,63,19,71,39,10,6787000
+KRY-0379,Karyawan 379,Quality Control,Admin,77,23,70,36,9,7086000
+KRY-0380,Karyawan 380,Gudang,Operator,96,49,92,26,4,7316000
+KRY-0381,Karyawan 381,Quality Control,Teknisi,84,48,90,23,4,7124000
+KRY-0382,Karyawan 382,Gudang,Operator,60,31,86,48,13,7769000
+KRY-0383,Karyawan 383,Produksi,Operator,74,40,91,33,7,7104000
+KRY-0384,Karyawan 384,Logistik,Operator,68,35,85,22,2,6241000
+KRY-0385,Karyawan 385,Gudang,Admin,74,33,74,43,9,6933000
+KRY-0386,Karyawan 386,Produksi,Teknisi,83,35,84,35,11,7527000
+KRY-0387,Karyawan 387,Quality Control,Operator,63,1,72,23,4,5252000
+KRY-0388,Karyawan 388,Quality Control,Operator,71,14,97,43,23,8620000
+KRY-0389,Karyawan 389,Produksi,Admin,96,33,76,53,19,8936000
+KRY-0390,Karyawan 390,Quality Control,Operator,96,35,80,49,15,9001000
+KRY-0391,Karyawan 391,Produksi,Admin,65,5,79,37,14,6885000
+KRY-0392,Karyawan 392,Gudang,Operator,98,38,78,38,6,7211000
+KRY-0393,Karyawan 393,Gudang,Operator,83,41,83,50,21,9370000
+KRY-0394,Karyawan 394,Produksi,Operator,70,11,82,38,4,5635000
+KRY-0395,Karyawan 395,Gudang,Operator,72,2,98,38,8,6038000
+KRY-0396,Karyawan 396,Gudang,Teknisi,93,44,94,41,17,8711000
+KRY-0397,Karyawan 397,Gudang,Operator,84,17,99,43,9,7098000
+KRY-0398,Karyawan 398,Maintenance,Operator,66,39,94,31,1,6210000
+KRY-0399,Karyawan 399,Logistik,Admin,63,20,71,49,24,9054000
+KRY-0400,Karyawan 400,Quality Control,Operator,67,14,72,50,20,8125000
+KRY-0401,Karyawan 401,Maintenance,Operator,79,32,76,38,14,8072000
+KRY-0402,Karyawan 402,Gudang,Admin,88,34,90,49,11,7557000
+KRY-0403,Karyawan 403,Produksi,Teknisi,69,25,87,52,14,7697000
+KRY-0404,Karyawan 404,Gudang,Operator,93,7,72,37,9,6770000
+KRY-0405,Karyawan 405,Logistik,Admin,85,35,79,47,4,6558000
+KRY-0406,Karyawan 406,Gudang,Teknisi,62,47,91,30,11,7773000
+KRY-0407,Karyawan 407,Produksi,Operator,65,29,98,52,4,6251000
+KRY-0408,Karyawan 408,Logistik,Operator,64,22,76,36,8,6452000
+KRY-0409,Karyawan 409,Gudang,Teknisi,64,41,78,25,2,6198000
+KRY-0410,Karyawan 410,Logistik,Teknisi,82,43,86,23,1,6174000
+KRY-0411,Karyawan 411,Quality Control,Operator,68,13,80,39,14,7399000
+KRY-0412,Karyawan 412,Quality Control,Admin,94,13,76,46,22,8690000
+KRY-0413,Karyawan 413,Gudang,Teknisi,79,1,93,34,9,6119000
+KRY-0414,Karyawan 414,Logistik,Operator,94,36,97,25,5,7022000
+KRY-0415,Karyawan 415,Produksi,Operator,77,4,83,33,14,7283000
+KRY-0416,Karyawan 416,Gudang,Operator,76,37,88,30,1,6303000
+KRY-0417,Karyawan 417,Quality Control,Teknisi,83,44,73,28,3,6729000
+KRY-0418,Karyawan 418,Quality Control,Operator,62,40,95,45,11,7545000
+KRY-0419,Karyawan 419,Gudang,Operator,91,46,75,35,16,8562000
+KRY-0420,Karyawan 420,Logistik,Teknisi,94,13,79,24,2,5726000
